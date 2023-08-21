@@ -6,7 +6,7 @@ function FooterAdmin() {
   const { Footer } = Layout;
   return (
     <Footer>
-      <p>&copy; Copyright 2023 • Made with ❤️ by R.S AHMAD AGIL ALATAS</p>
+      <p>&copy; Copyright 2023 • created by 1900016143 bayuR  </p>
     </Footer>
   );
 }
